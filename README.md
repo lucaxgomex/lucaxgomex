@@ -1,5 +1,9 @@
 ### Hello World, folks💻️
 
+<a>
+  <img align="left" alt="Linkedin Profile" width="20px" src="https://www.linkedin.com/in/lucas-gomes-7a6a091b4/"/>
+</a>
+
 <!--
 **lucaxgomex/lucaxgomex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
