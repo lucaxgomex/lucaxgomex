@@ -4,6 +4,10 @@
   <img align="left" alt="Linkedin Profile" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 
+<a href="https://medium.com/@lucas.g.oliv.dev">
+  <img align="left" alt="Medium Profile" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/medium.svg"/>
+</a>
+
 <!--
 **lucaxgomex/lucaxgomex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
