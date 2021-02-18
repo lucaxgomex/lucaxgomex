@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://dev.to/lucaxgomex">
-  <img align="left" alt="Medium Profile" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg"/>
+  <img align="left" alt="Medium Profile" width="20px" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg"/>
 </a>
 
 <!--
