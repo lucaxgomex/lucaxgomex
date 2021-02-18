@@ -9,11 +9,11 @@
 </a>
 
 <a href="https://dev.to/lucaxgomex">
-  <img align="left" alt="Medium Profile" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg"/>
+  <img align="left" alt="Dev Profile" width="20px" src="https://cdn.worldvectorlogo.com/logos/devto.svg"/>
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=100057494871754">
-  <img align="left" alt="Medium Profile" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg"/>
+  <img align="left" alt="Facebook Profile" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg"/>
 </a>
 
 <!--
