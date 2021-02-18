@@ -8,6 +8,10 @@
   <img align="left" alt="Medium Profile" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/medium.svg"/>
 </a>
 
+<a href="https://dev.to/lucaxgomex">
+  <img align="left" alt="Medium Profile" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg"/>
+</a>
+
 <!--
 **lucaxgomex/lucaxgomex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
