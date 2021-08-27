@@ -18,6 +18,7 @@ namespace Greetings
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaxgomex&layout=compact&langs_count=10&theme=nightowl"/>
 </div>
 
+<!--
 <a href="https://www.linkedin.com/in/lucas-gomes-7a6a091b4/">
   <img align="left" alt="Linkedin Profile" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
@@ -33,7 +34,7 @@ namespace Greetings
 <a href="https://www.facebook.com/profile.php?id=100057494871754">
   <img align="left" alt="Facebook Profile" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg"/>
 </a>
-
+-->
 <!--
 **lucaxgomex/lucaxgomex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
