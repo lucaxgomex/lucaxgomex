@@ -12,6 +12,19 @@ namespace Greetings
   }
 }
 ```
+<br>
+  <hr>
+</br>
+
+- Currently working with: <span style="color:purple">**Technical Support**</span>
+
+- Currently learning: <span style="color:purple">**React Native**</span>
+
+- Interested on: <span style="color:purple">**Cybersecurity**</span>, <span style="color:purple">**Game Development**</span> and <span style="color:purple">**Music**</span>
+
+<br>
+  <hr>
+</br>
 
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucaxgomex&show_icons=true&theme=vue-dark&include_all_commits=true"/>
