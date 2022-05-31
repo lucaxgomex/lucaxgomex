@@ -18,7 +18,7 @@ namespace Greetings
 
 - Currently working with: <span style="color:purple">**Technical Support**</span>
 
-- Currently learning: <span style="color:purple">**React Native**</span>
+- Currently learning: <span style="color:purple">**React Native**</span> and <span style="color:purple">**C#**</span>
 
 - Interested on: <span style="color:purple">**Cybersecurity**</span>, <span style="color:purple">**Game Development**</span> and <span style="color:purple">**Music**</span>
 
