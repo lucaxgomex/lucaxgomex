@@ -1,0 +1,1 @@
+Je suis développeur de logiciels et titulaire d'un diplôme en analyse des systèmes. J'ai commencé mes études par des défis impliquant le langage Python ; depuis, je perfectionne ma compréhension de la résolution de problèmes, ce qui m'a amené à explorer d'autres domaines d'activité.

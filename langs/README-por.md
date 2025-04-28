@@ -1,0 +1,1 @@
+Sou desenvolvedor de software e formado em Análise de Sistemas. Iniciei meus estudos por meio de desafios que envolviam a linguagem Python; desde então, venho aperfeiçoando minha compreensão da solução de problemas, o que me levou a explorar outras áreas de atuação.

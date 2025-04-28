@@ -1,0 +1,1 @@
+Ich bin Softwareentwickler mit einem Abschluss in Systemanalyse. Ich habe mein Studium mit Herausforderungen in der Sprache Python begonnen. Seitdem habe ich mein Verständnis von Problemlösung perfektioniert, was mich dazu gebracht hat, andere Tätigkeitsbereiche zu erkunden.

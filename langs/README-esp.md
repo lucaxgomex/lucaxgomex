@@ -1,0 +1,1 @@
+Soy desarrollador de software y licenciado en Análisis de Sistemas. Comencé mis estudios a través de retos relacionados con el lenguaje Python; desde entonces, he ido perfeccionando mi comprensión de la resolución de problemas, lo que me ha llevado a explorar otras áreas de actividad.
