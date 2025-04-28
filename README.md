@@ -14,50 +14,68 @@
  <tr><td><a href="README_fr.md"><img src="img/4x3/fr.svg" height="13"> Français</a></td></tr>
 
  <tr><td><a href="README_pt.md"><img src="img/4x3/br.svg" height="13"> Português</a></td></tr>
-
-
-
 </table>
 
 <h2 align="center" style="color:#9c40bf">
-
-Hello and welcome to my profile!
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
+  Hello and welcome to my profile!
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </h2>
 
-<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFmcnBsYng0ejU5eWRnOHphZTJ0cmJ2djR5MHlnbTYzNzVsZ2xyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="230">
+<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFmcnBsYng0ejU5eWRnOHphZTJ0cmJ2djR5MHlnbTYzNzVsZ2xyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="230"/>
 
 <p>
 
 <div>
-
-```ruby
-puts "Greetings to everyone interested in my projects!"
-```
-
-I'm a software developer with a degree in Systems Analysis. I began my studies through challenges involving the Python language; since then, I've been perfecting my understanding of problem solving, which has led me to explore other areas of activity.
-
+  I'm a software developer with a degree in Systems Analysis. I began my studies through challenges involving the Python language; since then, I've been perfecting my understanding of problem solving, which has led me to explore other areas of activity.
 </div>
 
 &nbsp;
 
+<!--
 <center style="color:#9c40bf">
 
-## 🧰 &nbsp;My toolbox
+## 🧰 &nbsp; My toolbox
 
 </center>
 
+-->
 
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/ExpressJS.png" alt="ExpressJS"/> &nbsp; <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="ReactJS" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/NextJS.png" alt="NextJS"/> &nbsp; <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/TailwindCSS.png" alt="TailwindCSS"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+### My toolbox
+
+<span>
+
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50" height="50"/> 
+
+<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/ExpressJS.png" alt="ExpressJS"/>
+
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="ReactJS" width="50" height="50" style="margin:0 auto; display:block;"/>
+
+ <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/NextJS.png" alt="NextJS"/>
+ 
+ <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/TailwindCSS.png" alt="TailwindCSS"/>
+ 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/>
+ 
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
+
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/>
+
+<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/>
+
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/>
+
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
 
 &nbsp;
+</span>
+
 
 
 # Languages and Skills
 
 <p align="left">
-  Languages and Skills: <br>
   <br>
     <img align="center" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg">
     <img align="center" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
@@ -85,7 +103,7 @@ I'm a software developer with a degree in Systems Analysis. I began my studies t
 ## 🎵 Spotify status
 
 <a href="https://open.spotify.com/track/4AnstjlAxgNRjym4uQQsju">
-  <img src="https://jvillegasd-spotify.vercel.app/api/song" width="341" height="571" alt="Now Playing">
+  <img src="img/Spotify-Card.png" alt="Now Playing">
 </a>
 
 &nbsp;
@@ -93,19 +111,23 @@ I'm a software developer with a degree in Systems Analysis. I began my studies t
 ### Here's my message to you:
 
 ```yaml
-  name: Haruki Murakami
+  quote: "Sometimes fate is like a small sandstorm that keeps changing directions. You change direction but the sandstorm chases you."
+  author: Haruki Murakami
   birth_location: Japan
   ocupation: 
     [
-      "author",
+      "writer",
       "translater",
       "professional runner"
     ]
   book_name: "Kafka on the Shore"
   publish_year: 2002
-  quote: "Sometimes fate is like a small sandstorm that keeps changing directions. You change direction but the sandstorm chases you."
 ```
 
-> Sometimes fate is like a small sandstorm that keeps changing directions. You change direction but the sandstorm chases you. 
->
->_Kafka on the Shore_, Haruki Murakami (2002)
+<span>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+&nbsp;
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+&nbsp;
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</span>  
