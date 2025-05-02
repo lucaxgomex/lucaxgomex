@@ -1,8 +1,10 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Greetings%20to%20everyone!&section=header&textBg=false&fontColor=9c40bf&fontSize=72&animation=twinkling&descAlign=20&fontAlignY=50&fontAlign=50&rotate=0&reversal=false&descSize=25&descAlignY=60"/>
-<div>
+<span>
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Greetings%20to%20everyone!&section=header&textBg=false&fontColor=9c40bf&fontSize=72&animation=twinkling&descAlign=20&fontAlignY=50&fontAlign=50&rotate=0&reversal=false&descSize=25&descAlignY=60"/>
+  <div>
+<span>
 
-<table align="right">
+<table align="center">
  <tr><td><a href="README_pt.md"><img src="img/4x3/de.svg" height="13"> Deutsch</a></td></tr>
 
  <tr><td><a href="README.md"><img src="img/4x3/gb.svg" height="13"> English</a></td></tr>
@@ -16,18 +18,21 @@
  <tr><td><a href="README_pt.md"><img src="img/4x3/br.svg" height="13"> Português</a></td></tr>
 </table>
 
+
 <h2 align="center" style="color:#9c40bf">
   Hello and welcome to my profile!
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </h2>
 
-<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFmcnBsYng0ejU5eWRnOHphZTJ0cmJ2djR5MHlnbTYzNzVsZ2xyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="230"/>
 
-<p>
+<div style="display: flex; align-items: center;">
+  <p style="margin-right: 10px;" align="left">
+    I'm a software developer with a degree in Systems Analysis. I began my studies through challenges involving the Python language; since then, I've been perfecting my understanding of problem solving, which has led me to explore other areas of activity.
+  </p>
 
-<div>
-  I'm a software developer with a degree in Systems Analysis. I began my studies through challenges involving the Python language; since then, I've been perfecting my understanding of problem solving, which has led me to explore other areas of activity.
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFmcnBsYng0ejU5eWRnOHphZTJ0cmJ2djR5MHlnbTYzNzVsZ2xyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="230"/>
 </div>
+
 
 &nbsp;
 
@@ -39,12 +44,12 @@
 </center>
 
 -->
-
-### My toolbox
+<h2 align="center" style="color:#9c40bf">
+  🧰 My toolbox
+</h2>
 
 <span>
-
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
 
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50" height="50"/> 
 
@@ -71,9 +76,9 @@
 &nbsp;
 </span>
 
-
-
-# Languages and Skills
+<h2 align="center" style="color:#9c40bf">
+  🧰 Languages and Skills
+</h2>
 
 <p align="left">
   <br>
@@ -92,7 +97,10 @@
     <img align="center" alt="svelte" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/grafana/grafana-original.svg">
 </p>
 
-### 📬 Where you can find me
+<h2 align="center" style="color:#9c40bf">
+  📬 Where you can find me
+</h2>
+
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Defcon27/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/hemanthkollipara)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Defcon27)](https://www.hackerrank.com/Defcon27)
@@ -100,7 +108,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:defcon.sentinal95@gmail.com)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/hemanthkollipara/articles)](https://auth.geeksforgeeks.org/user/hemanthkollipara/articles)
 
-## 🎵 Spotify status
+<h2 align="center" style="color:#9c40bf">
+  🎵 Spotify status
+</h2>
 
 <a href="https://open.spotify.com/track/4AnstjlAxgNRjym4uQQsju">
   <img src="img/Spotify-Card.png" alt="Now Playing">
@@ -108,7 +118,9 @@
 
 &nbsp;
 
-### Here's my message to you:
+<h2 align="center" style="color:#9c40bf">
+  Here's my message to you:
+</h2>
 
 ```yaml
   quote: "Sometimes fate is like a small sandstorm that keeps changing directions. You change direction but the sandstorm chases you."
