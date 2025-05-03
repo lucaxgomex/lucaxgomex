@@ -4,30 +4,82 @@
   <div>
 <span>
 
-<table align="center">
- <tr><td><a href="README_pt.md"><img src="img/4x3/de.svg" height="13"> Deutsch</a></td></tr>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
- <tr><td><a href="README.md"><img src="img/4x3/gb.svg" height="13"> English</a></td></tr>
+<h3 align="center" style="color:#9c40bf">
+  Please, Select Your Language Here:
+</h3>
 
- <tr><td><a href="README_pt.md"><img src="img/4x3/mx.svg" height="13"> Español</a></td></tr>
+<div style="display: flex; align-items: center;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHo2anMzbno0ZDcyMjgwMngydHBmZWNhOHFzbmNka2szM3dqYmo2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SmaYvew52UlC9MmB6l/giphy.gif" width="350" />
 
- <tr><td><a href="README_pt.md"><img src="img/4x3/Flag_of_Esperanto.svg.png" height="13"> Esperanto</a></td></tr>
+  <table align="center" style="border-style: dotted; margin-right: 10px">
+  <tr>
+    <td align="center">
+        <a href="README_pt.md"><img src="img/4x3/de.svg" height="13"> Deutsch</a>
+      </td>
+    </tr>
 
- <tr><td><a href="README_fr.md"><img src="img/4x3/fr.svg" height="13"> Français</a></td></tr>
+  <tr>
+    <td align="center">
+        <a href="README.md"><img src="img/4x3/gb.svg" height="13"> English</a>
+      </td>
+    </tr>
 
- <tr><td><a href="README_pt.md"><img src="img/4x3/br.svg" height="13"> Português</a></td></tr>
-</table>
+  <tr>
+    <td align="center">
+        <a href="README_pt.md"><img src="img/4x3/mx.svg" height="13"> Español</a>
+      </td>
+    </tr>
 
+  <tr>
+    <td align="center">
+        <a href="README_pt.md"><img src="img/4x3/Flag_of_Esperanto.svg.png" height="13"> Esperanto</a>
+      </td>
+    </tr>
+
+  <tr>
+    <td align="center">
+        <a href="README_fr.md"><img src="img/4x3/fr.svg" height="13"> Français</a>
+      </td>
+    </tr>
+
+  <tr>
+    <td>
+      <a href="README_pt.md"><img src="img/4x3/br.svg" height="13"> Português</a>
+    </td>
+  </tr>
+  </table>
+</div>
 
 <h2 align="center" style="color:#9c40bf">
-  Hello and welcome to my profile!
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> fHello and welcome to my profile! 
+  
 </h2>
 
 
 <div style="display: flex; align-items: center;">
   <p style="margin-right: 10px;" align="left">
-    I'm a software developer with a degree in Systems Analysis. I began my studies through challenges involving the Python language; since then, I've been perfecting my understanding of problem solving, which has led me to explore other areas of activity.
+    
+    👋 Hello! I hold a degree in Systems Analysis and have been working in the tech field for several years, combining solid academic training with hands-on experience in system development and maintenance. My journey began with computer maintenance, which gave me a strong technical foundation and a comprehensive understanding of infrastructure and hardware — skills that perfectly complement my work as a developer.
+    
+    🚀 I have advanced knowledge of programming languages such as Python, JavaScript, TypeScript, and Ruby, with a focus on clean, efficient, and scalable solutions. This profile showcases projects that reflect my passion for coding, my commitment to continuous learning, and my dedication to quality. Feel free to explore the repositories, contribute, or get in touch!
+    
+    🔐 I am currently focusing my studies on Information Security, deepening my understanding of data protection, vulnerability analysis, and cybersecurity best practices. This new chapter enhances my technical background and reinforces my commitment to building more secure systems.
+    
   </p>
 
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFmcnBsYng0ejU5eWRnOHphZTJ0cmJ2djR5MHlnbTYzNzVsZ2xyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="230"/>
@@ -97,6 +149,15 @@
     <img align="center" alt="svelte" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/grafana/grafana-original.svg">
 </p>
 
+
+<h2 align="center" style="color:#9c40bf">
+  🎵 Spotify status
+</h2>
+
+<a href="https://open.spotify.com/track/4AnstjlAxgNRjym4uQQsju">
+  <img src="img/Spotify-Card.png" alt="Now Playing">
+</a>
+
 <h2 align="center" style="color:#9c40bf">
   📬 Where you can find me
 </h2>
@@ -108,33 +169,40 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:defcon.sentinal95@gmail.com)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/hemanthkollipara/articles)](https://auth.geeksforgeeks.org/user/hemanthkollipara/articles)
 
-<h2 align="center" style="color:#9c40bf">
-  🎵 Spotify status
-</h2>
-
-<a href="https://open.spotify.com/track/4AnstjlAxgNRjym4uQQsju">
-  <img src="img/Spotify-Card.png" alt="Now Playing">
-</a>
-
 &nbsp;
 
-<h2 align="center" style="color:#9c40bf">
-  Here's my message to you:
-</h2>
+<details align="left">
+  <summary>
+    <b>Where's My Message to You:</b>
+    </i> 
+  </summary>
 
-```yaml
-  quote: "Sometimes fate is like a small sandstorm that keeps changing directions. You change direction but the sandstorm chases you."
-  author: Haruki Murakami
-  birth_location: Japan
-  ocupation: 
-    [
-      "writer",
-      "translater",
-      "professional runner"
-    ]
-  book_name: "Kafka on the Shore"
+  ```yaml
+  quote: 'Sometimes fate is like a small sandstorm that keeps changing directions. You change direction but the sandstorm chases you.'
+    
+  author: [
+    name: 'Haruki',
+
+    surname: 'Murakami',
+
+    birth_location: Japan,
+
+    ocupation: 
+      [
+        'writer',
+        'novelist',
+        'translator',
+        'runner',
+      ]
+  ]
+  
+  book_name: 'Kafka on the Shore'
+
   publish_year: 2002
-```
+  ```
+</details>
+
+&nbsp;
 
 <span>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
