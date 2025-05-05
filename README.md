@@ -24,12 +24,12 @@
 </h3>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHo2anMzbno0ZDcyMjgwMngydHBmZWNhOHFzbmNka2szM3dqYmo2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SmaYvew52UlC9MmB6l/giphy.gif" width="350" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHo2anMzbno0ZDcyMjgwMngydHBmZWNhOHFzbmNka2szM3dqYmo2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SmaYvew52UlC9MmB6l/giphy.gif" width="600" />
 
   <table align="center" style="border-style: dotted; margin-right: 10px">
   <tr>
     <td align="center">
-        <a href="README_pt.md"><img src="img/4x3/de.svg" height="13"> Deutsch</a>
+        <a href="langs/README-ger.md"><img src="img/4x3/de.svg" height="13"> Deutsch</a>
       </td>
     </tr>
 
@@ -41,25 +41,25 @@
 
   <tr>
     <td align="center">
-        <a href="README_pt.md"><img src="img/4x3/mx.svg" height="13"> Español</a>
+        <a href="langs/README-esp.md"><img src="img/4x3/mx.svg" height="13"> Español</a>
       </td>
     </tr>
 
   <tr>
     <td align="center">
-        <a href="README_pt.md"><img src="img/4x3/Flag_of_Esperanto.svg.png" height="13"> Esperanto</a>
+        <a href="langs/README-est.md"><img src="img/4x3/Flag_of_Esperanto.svg.png" height="13"> Esperanto</a>
       </td>
     </tr>
 
   <tr>
     <td align="center">
-        <a href="README_fr.md"><img src="img/4x3/fr.svg" height="13"> Français</a>
+        <a href="langs/README-frn.md"><img src="img/4x3/fr.svg" height="13"> Français</a>
       </td>
     </tr>
 
   <tr>
     <td>
-      <a href="README_pt.md"><img src="img/4x3/br.svg" height="13"> Português</a>
+      <a href="langs/README-por.md"><img src="img/4x3/br.svg" height="13"> Português</a>
     </td>
   </tr>
   </table>
@@ -82,7 +82,7 @@
     
   </p>
 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFmcnBsYng0ejU5eWRnOHphZTJ0cmJ2djR5MHlnbTYzNzVsZ2xyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="230"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFmcnBsYng0ejU5eWRnOHphZTJ0cmJ2djR5MHlnbTYzNzVsZ2xyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="600"/>
 </div>
 
 
@@ -100,44 +100,32 @@
   🧰 My toolbox
 </h2>
 
-<span>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50" height="50"/> 
-
-<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/ExpressJS.png" alt="ExpressJS"/>
-
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="ReactJS" width="50" height="50" style="margin:0 auto; display:block;"/>
-
- <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/NextJS.png" alt="NextJS"/>
- 
- <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/TailwindCSS.png" alt="TailwindCSS"/>
- 
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/>
- 
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
-
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/>
-
-<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/>
-
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/>
-
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-
-&nbsp;
+<span align="left">
+  <br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50" height="50"/> 
+    <img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/ExpressJS.png" alt="ExpressJS"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/>
+    <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/NextJS.png" alt="NextJS"/>
+    <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/TailwindCSS.png" alt="TailwindCSS"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/>
+    <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
+    <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/>
+    <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/>
+    <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/>
+    <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
 </span>
 
 <h2 align="center" style="color:#9c40bf">
   🧰 Languages and Skills
 </h2>
 
-<p align="left">
+<span align="left">
   <br>
     <img align="center" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg">
     <img align="center" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
     <img align="center" alt="dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-    <img align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
     <img align="center" alt="svelte" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
@@ -147,7 +135,7 @@
     <img align="center" alt="svelte" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/prisma/prisma-original.svg">
     <img align="center" alt="svelte" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain-wordmark.svg">
     <img align="center" alt="svelte" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/grafana/grafana-original.svg">
-</p>
+</span>
 
 
 <h2 align="center" style="color:#9c40bf">
