@@ -66,7 +66,7 @@
 </div>
 
 <h2 align="center" style="color:#9c40bf">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Hello and welcome to my profile! 
+  📇 Hello and welcome to my profile! 
   
 </h2>
 
@@ -74,17 +74,12 @@
 
 > 👋 Hello! I hold a degree in Systems Analysis and have been working in the tech field for several years, combining solid academic training with hands-on experience in system development and maintenance. My journey began with computer maintenance, which gave me a strong technical foundation and a comprehensive understanding of infrastructure and hardware — skills that perfectly complement my work as a developer.
 
-<div>
-  <p style="margin-right: 10px;" align="left">
-  
-    👋 Hello! I hold a degree in Systems Analysis and have been working in the tech field for several years, combining solid academic training with hands-on experience in system development and maintenance. My journey began with computer maintenance, which gave me a strong technical foundation and a comprehensive understanding of infrastructure and hardware — skills that perfectly complement my work as a developer.
-    
-    🚀 I have advanced knowledge of programming languages such as Python, JavaScript, TypeScript, and Ruby, with a focus on clean, efficient, and scalable solutions. This profile showcases projects that reflect my passion for coding, my commitment to continuous learning, and my dedication to quality. Feel free to explore the repositories, contribute, or get in touch!
-    
-    🔐 I am currently focusing my studies on Information Security, deepening my understanding of data protection, vulnerability analysis, and cybersecurity best practices. This new chapter enhances my technical background and reinforces my commitment to building more secure systems.
-    
-  </p>
 
+> 🚀 I have advanced knowledge of programming languages such as Python, JavaScript, TypeScript, and Ruby, with a focus on clean, efficient, and scalable solutions. This profile showcases projects that reflect my passion for coding, my commitment to continuous learning, and my dedication to quality. Feel free to explore the repositories, contribute, or get in touch!
+
+> 🔐 I am currently focusing my studies on Information Security, deepening my understanding of data protection, vulnerability analysis, and cybersecurity best practices. This new chapter enhances my technical background and reinforces my commitment to building more secure systems.
+
+<div>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJnMjFxcHh2cm0xbmZscWJkb2Nocjgyd2d6dzJhZ2hpN2E2YWw1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4NdKtRaQE9m8/giphy.gif" width="600"/>
 </div>
 
@@ -99,12 +94,73 @@
 </center>
 
 -->
+
+<h2 align="center" style="color:#9c40bf">
+  ⌨️ Programming Languages
+</h2>
+
+<span align="left">
+  <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original-wordmark.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg    " height="60" width="60" />
+</span>
+
+<h2 align="center" style="color:#9c40bf">
+  🗄 Database
+</h2>
+
+<span align="left">
+  <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="60" width="60" />
+</span>
+
+<h2 align="center" style="color:#9c40bf">
+  💾 Operating Systems
+</h2>
+
+<span align="left">
+  <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="60" width="60" />
+</span>
+
+<h2 align="center" style="color:#9c40bf">
+  🎮 Backend Frameworks
+</h2>
+
+<span align="left">
+  <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/denojs/denojs-original.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="60" width="60" />
+</span>
+
+<!--
 <h2 align="center" style="color:#9c40bf">
   ⚙️ My toolbox
 </h2>
 
 <span align="left">
   <br>
+    <img rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />      
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50" height="50"/> 
     <img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/ExpressJS.png" alt="ExpressJS"/>
@@ -139,7 +195,7 @@
     <img align="center" alt="svelte" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain-wordmark.svg">
     <img align="center" alt="svelte" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/grafana/grafana-original.svg">
 </span>
-
+-->
 
 <h2 align="center" style="color:#9c40bf">
   🎹 Spotify Status
