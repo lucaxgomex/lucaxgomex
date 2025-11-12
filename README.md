@@ -72,9 +72,11 @@
 
 <!--#style="display: flex; align-items: center;"-->
 
+> 👋 Hello! I hold a degree in Systems Analysis and have been working in the tech field for several years, combining solid academic training with hands-on experience in system development and maintenance. My journey began with computer maintenance, which gave me a strong technical foundation and a comprehensive understanding of infrastructure and hardware — skills that perfectly complement my work as a developer.
+
 <div>
   <p style="margin-right: 10px;" align="left">
-    
+  
     👋 Hello! I hold a degree in Systems Analysis and have been working in the tech field for several years, combining solid academic training with hands-on experience in system development and maintenance. My journey began with computer maintenance, which gave me a strong technical foundation and a comprehensive understanding of infrastructure and hardware — skills that perfectly complement my work as a developer.
     
     🚀 I have advanced knowledge of programming languages such as Python, JavaScript, TypeScript, and Ruby, with a focus on clean, efficient, and scalable solutions. This profile showcases projects that reflect my passion for coding, my commitment to continuous learning, and my dedication to quality. Feel free to explore the repositories, contribute, or get in touch!
@@ -83,7 +85,7 @@
     
   </p>
 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFmcnBsYng0ejU5eWRnOHphZTJ0cmJ2djR5MHlnbTYzNzVsZ2xyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="600"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJnMjFxcHh2cm0xbmZscWJkb2Nocjgyd2d6dzJhZ2hpN2E2YWw1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4NdKtRaQE9m8/giphy.gif" width="600"/>
 </div>
 
 
