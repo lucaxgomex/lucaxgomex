@@ -20,7 +20,7 @@
 </picture>
 
 <h3 align="center" style="color:#9c40bf">
-  Please, Select Your Language Here:
+  🌐 Please, Select Your Language Here:
 </h3>
 
 <div style="display: flex; align-items: center;">
@@ -66,12 +66,13 @@
 </div>
 
 <h2 align="center" style="color:#9c40bf">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> fHello and welcome to my profile! 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Hello and welcome to my profile! 
   
 </h2>
 
+<!--#style="display: flex; align-items: center;"-->
 
-<div style="display: flex; align-items: center;">
+<div>
   <p style="margin-right: 10px;" align="left">
     
     👋 Hello! I hold a degree in Systems Analysis and have been working in the tech field for several years, combining solid academic training with hands-on experience in system development and maintenance. My journey began with computer maintenance, which gave me a strong technical foundation and a comprehensive understanding of infrastructure and hardware — skills that perfectly complement my work as a developer.
@@ -97,7 +98,7 @@
 
 -->
 <h2 align="center" style="color:#9c40bf">
-  🧰 My toolbox
+  ⚙️ My toolbox
 </h2>
 
 <span align="left">
@@ -117,7 +118,7 @@
 </span>
 
 <h2 align="center" style="color:#9c40bf">
-  🧰 Languages and Skills
+  🖥️ Languages and Skills
 </h2>
 
 <span align="left">
@@ -139,18 +140,18 @@
 
 
 <h2 align="center" style="color:#9c40bf">
-  🎵 Spotify status
+  🎹 Spotify Status
 </h2>
 
 <a href="https://open.spotify.com/track/4AnstjlAxgNRjym4uQQsju">
-  <img src="img/Spotify-Card.png" alt="Now Playing">
+  <img src="img/qwrwetq4tewr.png" alt="Now Playing">
 </a>
 
 <h2 align="center" style="color:#9c40bf">
   📬 Where you can find me
 </h2>
 
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Defcon27/) 
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/lucaxgomex/)](https://github.com/lucaxgomex/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/hemanthkollipara)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Defcon27)](https://www.hackerrank.com/Defcon27)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11534375/hemanth-kollipara)](https://stackoverflow.com/users/11534375/hemanth-kollipara)
