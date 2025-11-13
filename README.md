@@ -67,7 +67,6 @@
 
 <h2 align="center" style="color:#9c40bf">
   📇 Hello and welcome to my profile! 
-  
 </h2>
 
 <!--#style="display: flex; align-items: center;"-->
@@ -75,7 +74,7 @@
 > 👋 Hello! I hold a degree in Systems Analysis and have been working in the tech field for several years, combining solid academic training with hands-on experience in system development and maintenance. My journey began with computer maintenance, which gave me a strong technical foundation and a comprehensive understanding of infrastructure and hardware — skills that perfectly complement my work as a developer.
 
 
-> 🚀 I have advanced knowledge of programming languages such as Python, JavaScript, TypeScript, and Ruby, with a focus on clean, efficient, and scalable solutions. This profile showcases projects that reflect my passion for coding, my commitment to continuous learning, and my dedication to quality. Feel free to explore the repositories, contribute, or get in touch!
+> 🚀 I have advanced knowledge of programming languages such as Python, Ruby, etc., with a focus on clean, efficient, and scalable solutions. This profile showcases projects that reflect my passion for coding, my commitment to continuous learning, and my dedication to quality. Feel free to explore the repositories, contribute, or get in touch!
 
 > 🔐 I am currently focusing my studies on Information Security, deepening my understanding of data protection, vulnerability analysis, and cybersecurity best practices. This new chapter enhances my technical background and reinforces my commitment to building more secure systems.
 
@@ -83,17 +82,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJnMjFxcHh2cm0xbmZscWJkb2Nocjgyd2d6dzJhZ2hpN2E2YWw1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4NdKtRaQE9m8/giphy.gif" width="600"/>
 </div>
 
-
 &nbsp;
-
-<!--
-<center style="color:#9c40bf">
-
-## 🧰 &nbsp; My toolbox
-
-</center>
-
--->
 
 <h2 align="center" style="color:#9c40bf">
   ⌨️ Programming Languages
@@ -112,11 +101,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" height="60" width="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="60" width="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="60" width="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg    " height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="60" width="60" />
 </span>
 
-<h2 align="center" style="color:#9c40bf">
-  🗄 Database
+<h2 align="center">
+  🗃 <span style="color:#9c40bf">Database</span>
 </h2>
 
 <span align="left">
@@ -136,7 +125,23 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" height="60" width="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" height="60" width="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="60" width="60" />
+    <img src="https://manjaro.org/logo.svg" height="60" width="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="60" width="60" />
+    
+</span>
+
+<h2 align="center">
+  🖥 <span style="color:#9c40bf">Frontend Frameworks</span>
+</h2>
+
+<span align="left">
+  <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original.svg" height="60" width="60" />
 </span>
 
 <h2 align="center" style="color:#9c40bf">
@@ -151,51 +156,24 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="60" width="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="60" width="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="60" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="60" width="60" />
 </span>
 
-<!--
-<h2 align="center" style="color:#9c40bf">
-  ⚙️ My toolbox
+
+<h2 align="center">
+  ⚙️ Toolbox
 </h2>
 
 <span align="left">
   <br>
-    <img rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />      
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50" height="50"/> 
-    <img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/ExpressJS.png" alt="ExpressJS"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/>
-    <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/NextJS.png" alt="NextJS"/>
-    <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/TailwindCSS.png" alt="TailwindCSS"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/>
-    <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
-    <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/>
-    <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/>
-    <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/>
-    <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+    <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+    <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/grafana/grafana-original.svg">
+    <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+    <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg">
+    <img height="60" width="60" src="https://www.fortinet.com/content/dam/fortinet/images/general/fortinet-footer-logo.svg">
+    <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg">
 </span>
 
-<h2 align="center" style="color:#9c40bf">
-  🖥️ Languages and Skills
-</h2>
-
-<span align="left">
-  <br>
-    <img align="center" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg">
-    <img align="center" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-    <img align="center" alt="dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-    <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
-    <img align="center" alt="svelte" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
-    <img align="center" alt="svelte" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-    <img align="center" alt="svelte" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg">
-    <img align="center" alt="svelte" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/windows8/windows8-original.svg">
-    <img align="center" alt="svelte" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/prisma/prisma-original.svg">
-    <img align="center" alt="svelte" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain-wordmark.svg">
-    <img align="center" alt="svelte" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/grafana/grafana-original.svg">
-</span>
--->
 
 <h2 align="center" style="color:#9c40bf">
   🎹 Spotify Status
@@ -218,12 +196,13 @@
 
 &nbsp;
 
+
 <details align="left">
   <summary>
     <b>Where's My Message to You:</b>
     </i> 
   </summary>
-
+  
   ```yaml
   quote: 'Sometimes fate is like a small sandstorm that keeps changing directions. You change direction but the sandstorm chases you.'
     
