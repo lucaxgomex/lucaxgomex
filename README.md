@@ -1,6 +1,6 @@
 <span>
   <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Greetings%20to%20everyone!&section=header&textBg=false&fontColor=9c40bf&fontSize=72&animation=twinkling&descAlign=20&fontAlignY=50&fontAlign=50&rotate=0&reversal=false&descSize=25&descAlignY=60"/>
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Welcome%20to%20my%20profile!&section=header&textBg=false&fontColor=5834eb&reversal=false&animation=twinkling&strokeWidth=1&stroke=7035b8&fontAlign=50&fontAlignY=50"/>
   <div>
 <span>
 
@@ -19,47 +19,47 @@
   />
 </picture>
 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt2ODFzM3Rocmx5cHRyeTdvZTY4d2dtZGQzbmNoYzEyYW1ma25rYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YDj8Ot6mIbJYs/giphy.gif" width="1024px" />
+
 <h3 align="center" style="color:#9c40bf">
   🌐 Please, Select Your Language Here:
 </h3>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHo2anMzbno0ZDcyMjgwMngydHBmZWNhOHFzbmNka2szM3dqYmo2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SmaYvew52UlC9MmB6l/giphy.gif" width="600" />
-
-  <table align="center" style="border-style: dotted; margin-right: 10px">
+  <table align="center" style="border-style: dotted">
   <tr>
     <td align="center">
-        <a href="langs/README-ger.md"><img src="img/4x3/de.svg" height="13"> Deutsch</a>
+        <a href="langs/README-ger.md"><img src="img/4x3/de.svg" height="13">Deutsch</a>
       </td>
     </tr>
 
   <tr>
     <td align="center">
-        <a href="README.md"><img src="img/4x3/gb.svg" height="13"> English</a>
+        <a href="README.md"><img src="img/4x3/gb.svg" height="13">English</a>
       </td>
     </tr>
 
   <tr>
     <td align="center">
-        <a href="langs/README-esp.md"><img src="img/4x3/mx.svg" height="13"> Español</a>
+        <a href="langs/README-esp.md"><img src="img/4x3/mx.svg" height="13">Español</a>
       </td>
     </tr>
 
   <tr>
     <td align="center">
-        <a href="langs/README-est.md"><img src="img/4x3/Flag_of_Esperanto.svg.png" height="13"> Esperanto</a>
+        <a href="langs/README-est.md"><img src="img/4x3/Flag_of_Esperanto.svg.png" height="13">Esperanto</a>
       </td>
     </tr>
 
   <tr>
     <td align="center">
-        <a href="langs/README-frn.md"><img src="img/4x3/fr.svg" height="13"> Français</a>
+        <a href="langs/README-frn.md"><img src="img/4x3/fr.svg" height="13">Français</a>
       </td>
     </tr>
 
   <tr>
-    <td>
-      <a href="langs/README-por.md"><img src="img/4x3/br.svg" height="13"> Português</a>
+    <td align="center">
+      <a href="langs/README-por.md"><img src="img/4x3/br.svg" height="13">Português</a>
     </td>
   </tr>
   </table>
@@ -79,7 +79,7 @@
 > 🔐 I am currently focusing my studies on Information Security, deepening my understanding of data protection, vulnerability analysis, and cybersecurity best practices. This new chapter enhances my technical background and reinforces my commitment to building more secure systems.
 
 <div>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJnMjFxcHh2cm0xbmZscWJkb2Nocjgyd2d6dzJhZ2hpN2E2YWw1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4NdKtRaQE9m8/giphy.gif" width="600"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZ2djFvMGxiOW1zdzFlc244NGFmdjIwejI1cXZocjdsNGV1YmZycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JmJMzlXOiI0dq/giphy.gif" width="600"/>
 </div>
 
 &nbsp;
@@ -174,6 +174,31 @@
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg">
 </span>
 
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaxgomex&theme=shades_of_purple" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucaxgomex&theme=shades_of_purple" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucaxgomex&theme=shades_of_purple" />
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucaxgomex&theme=shades_of_purple" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucaxgomex&theme=shades_of_purple&utcOffset=8" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h2 align="center" style="color:#9c40bf">
   🎹 Spotify Status
