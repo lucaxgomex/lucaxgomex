@@ -19,7 +19,7 @@
   />
 </picture>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt2ODFzM3Rocmx5cHRyeTdvZTY4d2dtZGQzbmNoYzEyYW1ma25rYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YDj8Ot6mIbJYs/giphy.gif" width="1024px" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdwZGY4ejN1Y2hzY3g5Y2pleW5xOXU3ZTFnZGEyb2xjeGo0eHNtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HXLNH9Z01TembuEKPi/giphy.gif" width="100%" />
 
 <h3 align="center" style="color:#9c40bf">
   🌐 Please, Select Your Language Here:
@@ -125,7 +125,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" height="40" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" height="40" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40" width="40" />
-    <img src="https://manjaro.org/logo.svg" height="40" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/512px-Manjaro-logo.svg.png" height="40" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" width="40" />
     
 </span>
@@ -141,7 +141,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" height="40" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ghost/ghost-original.svg" height="40" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original.svg" height="40" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" height="40" width="40" />
 </span>
 
 <h2 align="center" style="color:#9c40bf">
@@ -150,6 +152,7 @@
 
 <span align="left">
   <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" height="40" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/denojs/denojs-original.svg" height="40" width="40" />
@@ -161,7 +164,7 @@
 
 
 <h2 align="center">
-  ⚙️ Toolbox
+  <span style="color:#9c40bf">⚙️ Toolbox</span>
 </h2>
 
 <span align="left">
@@ -170,12 +173,24 @@
     <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/grafana/grafana-original.svg">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg">
-    <img height="40" width="40" src="https://www.fortinet.com/content/dam/fortinet/images/general/fortinet-footer-logo.svg">
+    <img height="40" width="80" src="https://www.fortinet.com/content/dam/fortinet/images/general/fortinet-footer-logo.svg">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg">
 </span>
 
+<h2 align="center">
+  <span style="color:#9c40bf">🥷 Ethical Hacking</span>
+</h2>
+
+<span align="left">
+  <br>
+    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+    <img height="40" width="80" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png?20230731104508">
+    <img height="40" width="40" src="https://www.wireshark.org/_astro/wireshark-logo-big.CkRjSOaC_2eT4Ah.png">
+    <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/960px-Ghidra_logo.svg.png">
+</span>
+
 <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center" style="color:#9c40bf">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaxgomex&theme=shades_of_purple" />
   <table>
