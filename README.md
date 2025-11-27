@@ -192,7 +192,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="40" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="40" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="40" width="40" />
-    <img src="https://devicon-website.vercel.app/api/krakenjs/original.svg  " height="40" width="40" />
+    <img src="https://devicon-website.vercel.app/api/krakenjs/original.svg" height="40" width="40" />
 </span>
 
 
